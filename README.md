@@ -32,7 +32,7 @@ SeerAPI 数据库提供精灵/技能权威 ID，名称以数据库为准，不�
 需要访问 GitHub 的网络环境以下载精灵数据库。
 
 ## 引用与致谢
-数据来源：SeerAPI api-data（MIT）；规则参考：重聚巅峰脚本开发者手册；属性克制表：9game.cn；开源出招样本：白龙版本狂野出招；特别感谢脚本大佬[「极品白袜壮熊」](https://www.bilibili.com/video/BV1iRmkBaEAj)的开源支持。
+数据来源：[SeerAPI api-data（MIT）](https://github.com/SeerAPI?utm_source=chatgpt.com)；规则参考：重聚巅峰脚本开发者手册；属性克制表：9game.cn；开源出招样本：白龙版本狂野出招；特别感谢脚本大佬[「极品白袜壮熊」](https://www.bilibili.com/video/BV1iRmkBaEAj)的开源支持。
 
 ## ⚠ 重要声明 
 本项目仍处于实验性的**测试阶段**，作者实战测试结果显示：目前生成的脚本**胜率仍不及“白龙版本狂野出招”开源脚本**（清流阵容最高至狂野王者段位），故不推荐作为一般玩家的上分首选。

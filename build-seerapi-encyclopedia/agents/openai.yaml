@@ -1,0 +1,4 @@
+interface:
+  display_name: "SeerAPI 精灵图鉴构建"
+  short_description: "从 SeerAPI 官方数据库构建并清洗赛尔号精灵文本图鉴（筛选/过滤/加ID）"
+  default_prompt: "Use $build-seerapi-encyclopedia to build a filtered Seer pet text encyclopedia from a SeerAPI database and a pet ID list."

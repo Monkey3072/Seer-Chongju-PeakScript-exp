@@ -1,0 +1,4 @@
+interface:
+  display_name: "重聚巅峰脚本生成器"
+  short_description: "按自然语言生成/修改/校验重聚巅峰脚本三件套（BP、切换、精灵出招）"
+  default_prompt: "请使用 $build-chongju-scripts，根据我的阵容和切换策略生成可运行的重聚巅峰脚本。"

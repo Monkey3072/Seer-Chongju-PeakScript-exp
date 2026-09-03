@@ -1,0 +1,4 @@
+interface:
+  display_name: "重聚巅峰 6V6 脚本编排"
+  short_description: "按十步流程编排生成重聚巅峰/赛尔号 6V6 狂野对战脚本三件套"
+  default_prompt: "请使用 $seer-chongju-strategy，根据我的 12 只出战精灵、套装和阵容思路生成一套重聚巅峰 6V6 狂野脚本。"
